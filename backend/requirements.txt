@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+beautifulsoup4==4.12.2
+requests==2.31.0
+pydantic==2.5.0
+mistralai==0.0.8
+groq==0.3.0
+python-dotenv==1.0.0
+Pillow==10.1.0
+colorthief==0.2.1
+httpx==0.25.1
+supabase==2.3.0
+lxml==4.9.3
